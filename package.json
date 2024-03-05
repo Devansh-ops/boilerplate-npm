@@ -4,6 +4,7 @@
 	"description": "This is a Test description",
 	"keywords": ["freecodecamp", "demo", "learning"],
 	"license": "MIT",
+	"version": "1.0.1",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
